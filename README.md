@@ -1,15 +1,15 @@
 [![MasterHead](https://repository-images.githubusercontent.com/582580525/23e90ecc-4b0c-4258-8fa1-c650b96348c2)](https://mehdi-zaree.github.io/Mehdi-zaree/)
 <h1 align="center">Hi 👋, I'm Mehdi Zarei</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehdi-zaree&label=Profile%20views&color=0e75b6&style=flat" alt="mehdi-zaree" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehdi-zaree" alt="mehdi-zaree" /></a> </p>
-<img alt="coding" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br/>
 
 - 💬 Ask me about **Html5,css,scss**
-
 - 📫 How to reach me **Mahdizarei22019@gmail.com**
+- <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<br/>
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
